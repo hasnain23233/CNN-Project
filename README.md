@@ -112,4 +112,4 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 # Contact
 
-For any queries or suggestions, please contact [Your Name] at [Your Email].
+For any queries or suggestions, please contact Hasnain khushi at hasnainkhushi152@gmail.com.
